@@ -2,9 +2,7 @@
 <h1 align="center">Christopher Huebner</h1>
 <h3 align="center">Senior Full-Stack Engineer</h3>
 
-- All of my projects are available at [https://redchris0006.com](https://redchris0006.com)
 - How to reach me **huebnerchristopher3@gmail.com**
-- Know about my experiences [https://resumechris0006.com](https://resumechris0006.com)
 
 <h3 align="left">Connect with me: +1 323 456 3189</h3>
 <p align="left">
