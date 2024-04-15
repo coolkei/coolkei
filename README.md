@@ -1,6 +1,6 @@
 <h1 align="center">Welcome</h1>
 <h1 align="center">Christopher Huebner</h1>
-<h3 align="center">Senior Full-Stack Developer</h3>
+<h3 align="center">Senior Full-Stack Engineer</h3>
 
 - All of my projects are available at [https://redchris0006.com](https://redchris0006.com)
 - How to reach me **huebnerchristopher3@gmail.com**
