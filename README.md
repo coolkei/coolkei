@@ -42,11 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div align="center">
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized)
-  <div>
     
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
   <p align="center">
@@ -64,8 +60,13 @@
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
-
   </picture>
+
+<div align="center">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized)
+  <div>
 
   ![Coolkei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=coolkei&custom_title=Coolkei's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
