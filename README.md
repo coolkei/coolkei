@@ -69,7 +69,7 @@
     />
   </picture>
 
-  ![Coolkei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=coolkei&custom_title=DevKing472's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Coolkei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=coolkei&custom_title=Coolkei's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
 </div>
 
