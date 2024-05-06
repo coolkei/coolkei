@@ -42,21 +42,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-<div align="center">
-  
   <p align="center">
     <a href="https://github.com/coolkei">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkei&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
     </a>
   </p>
-</div>
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
+  
 <div>
   
   <picture>
