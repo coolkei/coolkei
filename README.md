@@ -2,9 +2,6 @@
 <!-- <h1 align="center">Christopher Huebner</h1> -->
 <h3 align="center">Senior Full-Stack Engineer</h3>
 
-- How to reach me **huebnerchristopher3@gmail.com**
-
-<h3 align="left">Connect with me: +1 323 456 3189</h3>
 <p align="left">
 </p>
 
