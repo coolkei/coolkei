@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Christopher Huebner</h1> -->
 <h3 align="center">Senior Full-Stack Engineer</h3>
 
-<h6 align="left">Full Stack Developer with over 6 years of experience in React.JS, React-Native, Vue.JS, JavaScript, Angular, NodeJS, ExpressJS, TypeScript, AWS and Firebase. </h6>
+<h6 align="left">Full Stack Developer with over 10 years of experience in React.JS, React-Native, Vue.JS, JavaScript, Angular, NodeJS, ExpressJS, TypeScript, AWS and Firebase. </h6>
 <h6 align="left">-Core strengths in initiating projects from scratch as well as jumping into an existing architecture. </h6>
 <h6 align="left">-Quick learner capable of mastering new technologies, frameworks, tools and client systems in a hands-on setting with little/no external supervision. </h6>
 
