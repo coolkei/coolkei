@@ -52,6 +52,7 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized)
+  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
   
 <div>
