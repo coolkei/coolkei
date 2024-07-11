@@ -132,15 +132,9 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 </div>
 
 ## Statistics
-
+<img width="640" src="https://streak-stats.demolab.com/?user=coolkei&theme=react" alt=""/>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
 
-<p display="flex">
-  <a href="https://github.com/coolkei">
-    <img width="640" src="https://streak-stats.demolab.com/?user=coolkei&theme=react" alt=""/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkei&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
 
 ## Charts
 <div align="center">
