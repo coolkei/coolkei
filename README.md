@@ -137,13 +137,12 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 
 ## Charts
 <div>
-
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
   [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
-  
+</div>
+
 <div>
-  
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -155,8 +154,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
     />
   </picture>
 
-  ![Coolkei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=coolkei&custom_title=Coolkei's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-  
+  ![Coolkei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=coolkei&custom_title=Coolkei's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)  
 </div>
 
 <p align="center">
