@@ -135,14 +135,17 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 <img width="640" src="https://streak-stats.demolab.com/?user=coolkei&theme=react" alt=""/>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
 
-## Charts
-<div>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
-  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
-
 <p align="center">
   <a href="https://github.com/coolkei">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkei&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
+
+## Charts
+<div align="center">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevKing472&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKing472&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized&)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
+  <div>
