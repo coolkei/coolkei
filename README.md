@@ -131,14 +131,13 @@ Full Stack Developer with over 6 years of experience in modern web programming.
 </table>  
 </div>
 
-## Statistics
-<img width="640" src="https://streak-stats.demolab.com/?user=coolkei&theme=react" alt=""/>
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
-
-
-## Charts
+## Activities
 <div>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=solarized&utcOffset=8)
   <div>
+
+## Statistics
+<img width="640" src="https://streak-stats.demolab.com/?user=coolkei&theme=react" alt=""/>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
