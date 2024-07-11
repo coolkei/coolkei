@@ -1,32 +1,3 @@
-  <p align="center">
-    <a href="https://github.com/coolkei">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkei&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-    </a>
-  </p>
-
-<div align="center">
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
-  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
-  
-<div>
-  
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-
-  ![Coolkei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=coolkei&custom_title=Coolkei's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-  
-</div>
-
 <h1 align="center">Senior Full Stack Engineer</h1>
 
 ## About Me
@@ -163,3 +134,34 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 ## Statistics
 <img width="640" src="https://streak-stats.demolab.com/?user=diamond120&theme=react" alt=""/>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
+  
+<p align="center">
+    <a href="https://github.com/coolkei">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkei&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    </a>
+  </p>
+
+<div align="center">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
+  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolkei&show_icons=true&theme=transparent)
+  
+<div>
+  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+
+  ![Coolkei's Graph](https://github-readme-activity-graph.vercel.app/graph?username=coolkei&custom_title=Coolkei's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  
+</div>
+
+
