@@ -132,7 +132,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 </div>
 
 ## Statistics
-<img width="640" src="https://streak-stats.demolab.com/?user=diamond120&theme=react" alt=""/>
+<img width="640" src="https://streak-stats.demolab.com/?user=coolkei&theme=react" alt=""/>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coolkei&theme=solarized) -->
   
 <p align="center">
