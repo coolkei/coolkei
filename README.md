@@ -3,8 +3,7 @@
 ## About Me
 Full Stack Developer with over 6 years of experience in modern web programming.
 
--Core strengths in initiating projects from scratch as well as jumping into an existing architecture.
-
+-Core strengths in initiating projects from scratch as well as jumping into an existing architecture.<br>
 -Quick learner capable of mastering new technologies, frameworks, tools and client systems in a hands-on setting with little/no external supervision.
 
 ## Skills
