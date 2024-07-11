@@ -1,10 +1,10 @@
-<h1 align="center">Senior Full Stack Engineer</h1>
+<h1>Senior Full Stack Engineer</h1>
 
 ## About Me
+Full Stack Developer with over 10 years of experience in React.JS, React-Native, Vue.JS, JavaScript, Angular, NodeJS, ExpressJS, TypeScript, AWS and Firebase.
 
-Mastered designing, developing, and testing web applications using Python, JavaScript, PHP, and related frameworks. <br>
-Proficient in cloud based deployment with AWS, Azure, GCP and containerization tools such as Docker, Kubernetes. <br>
-Skillful in integrating third-party APIs, machine learning algorithms, and models into applications with hands-on experience and professional knowledge in data science.
+-Core strengths in initiating projects from scratch as well as jumping into an existing architecture.
+-Quick learner capable of mastering new technologies, frameworks, tools and client systems in a hands-on setting with little/no external supervision.
 
 ## Skills
 <table>  
@@ -137,7 +137,7 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
 
 
 ## Charts
-<div align="center">
+<div>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=solarized&utcOffset=8)
