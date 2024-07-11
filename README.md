@@ -1,7 +1,7 @@
 <h1>Senior Full Stack Engineer</h1>
 
 ## About Me
-Full Stack Developer with over 6 years of experience in React.JS, React-Native, Vue.JS, JavaScript, Angular, NodeJS, ExpressJS, TypeScript, AWS and Firebase.
+Full Stack Developer with over 6 years of experience in modern web programming.
 
 -Core strengths in initiating projects from scratch as well as jumping into an existing architecture.
 -Quick learner capable of mastering new technologies, frameworks, tools and client systems in a hands-on setting with little/no external supervision.
