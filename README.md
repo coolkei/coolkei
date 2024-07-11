@@ -141,7 +141,8 @@ Skillful in integrating third-party APIs, machine learning algorithms, and model
   </a>
 </p>
 
-<div align="center">
+## Skills
+<div>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coolkei&theme=solarized)
   [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coolkei&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
