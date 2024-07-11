@@ -40,36 +40,6 @@ Full Stack Developer with over 6 years of experience in React.JS, React-Native, 
   </tr>  
   <tr>  
     <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
-      <br>Laravel  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
-      <br>Node.js  
-    </td>   
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
-      <br>Express.js
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
-      <br>Nest.js  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
-      <br>Django  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=flask" alt="icon" alt="Flask" />  
-      <br>Flask  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
-      <br>FastAPI  
-    </td>
-  </tr>
-  <tr>  
-    <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="icon" alt="React" />  
       <br>React  
     </td>
@@ -96,6 +66,36 @@ Full Stack Developer with over 6 years of experience in React.JS, React-Native, 
     <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
       <br>Tailwind  
+    </td>
+  </tr>
+  <tr>  
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
+      <br>Laravel  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
+      <br>Node.js  
+    </td>   
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
+      <br>Express.js
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
+      <br>Nest.js  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
+      <br>Django  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=flask" alt="icon" alt="Flask" />  
+      <br>Flask  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
+      <br>FastAPI  
     </td>
   </tr>
   <tr>  
