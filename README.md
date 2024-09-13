@@ -1,7 +1,7 @@
 <h1>Senior Full Stack Engineer</h1>
 
 ## About Me
-Full Stack Developer with various years of experience in modern web programming.
+Experienced Full Stack Engineer with over a decade of **agile** methodology experience, driven by optimization and motivation.
 
 -Core strengths in initiating projects from scratch as well as jumping into an existing architecture.<br>
 -Quick learner capable of mastering new technologies, frameworks, tools and client systems in a hands-on setting with little/no external supervision.
