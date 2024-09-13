@@ -1,7 +1,7 @@
 <h1>Senior Full Stack Engineer</h1>
 
 ## About Me
-Experienced Full Stack Engineer with over a decade of **agile** methodology experience, driven by optimization and motivation.
+𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓭 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 𝔀𝓲𝓽𝓱 𝓸𝓿𝓮𝓻 𝓪 𝓭𝓮𝓬𝓪𝓭𝓮 𝓸𝓯 𝓪𝓰𝓲𝓵𝓮 𝓶𝓮𝓽𝓱𝓸𝓭𝓸𝓵𝓸𝓰𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮, 𝓭𝓻𝓲𝓿𝓮𝓷 𝓫𝔂 𝓸𝓹𝓽𝓲𝓶𝓲𝔃𝓪𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓶𝓸𝓽𝓲𝓿𝓪𝓽𝓲𝓸𝓷.
 
 -Core strengths in initiating projects from scratch as well as jumping into an existing architecture.<br>
 -Quick learner capable of mastering new technologies, frameworks, tools and client systems in a hands-on setting with little/no external supervision.
