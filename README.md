@@ -10,7 +10,7 @@
 <table>  
   <tr> 
     <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
+      <img  width="35" height="35" src="[https://skillicons.dev](https://skillicons.dev)/icons?i=python" alt="Python" />  
       <br>𝓹𝔂𝓽𝓱𝓸𝓷  
     </td> 
     <td align="center" width="90">  
@@ -30,12 +30,12 @@
       <br>𝓒++  
     </td> 
     <td align="center" width="90">  
-    <img  width="35" height="35" src="https://skillicons.dev/icons?i=html" alt="HTML" />  
-      <br>𝓗𝓣𝓜𝓛  
+    <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="HTML" />  
+      <br>𝓙𝓪𝓿𝓪  
     </td>  
     <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=css" alt="CSS" />  
-      <br>𝓒𝓢𝓢  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=go" alt="CSS" />  
+      <br>𝓖𝓸
     </td> 
   </tr>  
   <tr>  
