@@ -10,7 +10,7 @@
 <table>  
   <tr> 
     <td align="center" width="90">  
-      <img  width="35" height="35" src="[https://skillicons.dev](https://skillicons.dev)/icons?i=python" alt="Python" />  
+      <img  width="35" height="35" src="[https://skillicons.dev](https://skillicons.dev)/icons?i=py" alt="Python" />  
       <br>𝓹𝔂𝓽𝓱𝓸𝓷  
     </td> 
     <td align="center" width="90">  
